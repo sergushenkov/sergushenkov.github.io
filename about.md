@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
@@ -16,11 +16,12 @@ permalink: /about/
 Перенос формирования отчетов для ЦБ с Oracle на Greenplum
 
 ### ПАО "Сбербанк" (октябрь 2020 - апрель 2022)
-Пайплайны (Informatica PowerCenter, Airflow) между Teradata, Greenplum, Hadoop. \ Небольшой опыт использования Scala + Spark. \ 
+Пайплайны (Informatica PowerCenter, Airflow) между Teradata, Greenplum, Hadoop.  
+ Небольшой опыт использования Scala + Spark.   
 Учебник по переходу с Airflow на CTL (внутренний инструмент). 
 
 ### ООО "Вайлдберриз" (ноябрь 2019 - октябрь 2020)
-Участие в миграции с Vertica на Greenplum, переход с Jenkins на Airflow. \
+Участие в миграции с Vertica на Greenplum, переход с Jenkins на Airflow.  
 Написал собственный оператор Airflow, на котором работало порядка 90% дагов к моменту моего ухода
 
 ### Contact me
