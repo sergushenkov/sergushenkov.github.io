@@ -17,7 +17,7 @@ permalink: /about/
 
 ### ПАО "Сбербанк" (октябрь 2020 - апрель 2022)
 Пайплайны (Informatica PowerCenter, Airflow) между Teradata, Greenplum, Hadoop.  
- Небольшой опыт использования Scala + Spark.   
+Небольшой опыт использования Scala + Spark.   
 Учебник по переходу с Airflow на CTL (внутренний инструмент). 
 
 ### ООО "Вайлдберриз" (ноябрь 2019 - октябрь 2020)
