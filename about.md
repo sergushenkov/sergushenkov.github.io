@@ -26,5 +26,6 @@ permalink: /about/
 
 ### Contact me
 
-* Telegram: @sergushenkov
+* Telegram: [@sergushenkov](t.me/@sergushenkov)
+* Блог в Telegram: [hangry DE](t.me/hangryDE)
 * [sergushenkov@gmail.com](mailto:sergushenkov@gmail.com)
