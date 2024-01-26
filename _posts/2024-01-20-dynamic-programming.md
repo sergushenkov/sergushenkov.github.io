@@ -16,4 +16,3 @@ title: Паттерн Динамическое программирование
 [Подъём по лестнице](https://leetcode.com/problems/climbing-stairs/)
 
 [Максимальная прибыль от планирования работ](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
-
