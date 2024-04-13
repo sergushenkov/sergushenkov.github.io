@@ -34,12 +34,14 @@ i = 1
 
 while i <= const:
     print(f'батч {i} из {const}')
+
     query = f'''
     insert into dst_table
     select *
     from t1
     join t2 on t1.id = t2.id
     where mod(t1.serno, {const}) = {i}'''
+    
     cur.execute(query)
     i = i + 1
 ...
