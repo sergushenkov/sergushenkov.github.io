@@ -39,9 +39,8 @@ while i <= const:
     select *
     from t1
     join t2 on t1.id = t2.id
-    where mod(t1.serno, {const}) = {i}
-    '''
-    gp.gp_execute(query, gp_service = 'gp')
+    where mod(t1.serno, {const}) = {i}'''
+    cur.execute(query)
     i = i + 1
 ...
 ```
